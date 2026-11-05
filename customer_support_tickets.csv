@@ -1,0 +1,501 @@
+Ticket_ID,Ticket_Text,Category,Priority,Sentiment,Channel,Customer_Type,Resolution_Time_Hours,SLA_Status,Recommended_Team
+T0001,Please help me. I was charged twice for my order I need an update.,Billing,High,Neutral,Email,Premium,6.2,Within SLA,Billing Support
+T0002,Please help me. The invoice amount is incorrect,Billing,High,Neutral,Email,Premium,4.5,Within SLA,Billing Support
+T0003,My payment was deducted but the order was cancelled This is frustrating.,Billing,High,Negative,Email,New,5.1,Within SLA,Billing Support
+T0004,This is urgent. The invoice amount is incorrect I need an update.,Billing,High,Negative,Phone,New,7.7,Within SLA,Billing Support
+T0005,Can someone help? I was charged twice for my order,Billing,High,Positive,Email,Premium,5.2,Within SLA,Billing Support
+T0006,The invoice amount is incorrect,Billing,Low,Positive,Phone,Premium,9.7,Within SLA,Billing Support
+T0007,This is urgent. Why was I charged an extra fee? Thank you.,Billing,High,Negative,Chat,Returning,1.5,Within SLA,Billing Support
+T0008,I need assistance. I was charged twice for my order,Billing,High,Positive,Phone,New,5.4,Within SLA,Billing Support
+T0009,This is urgent. I need a refund for a duplicate payment Please resolve this.,Billing,Medium,Negative,Email,Premium,13.8,Within SLA,Billing Support
+T0010,My payment was deducted but the order was cancelled Please resolve this.,Billing,High,Positive,Chat,Premium,2.9,Within SLA,Billing Support
+T0011,Please help me. I need a refund for a duplicate payment Please resolve this.,Billing,Medium,Positive,Email,New,9.6,Within SLA,Billing Support
+T0012,This is urgent. Why was I charged an extra fee? Please resolve this.,Billing,Medium,Negative,Social Media,New,9.5,Within SLA,Billing Support
+T0013,I need assistance. I need a refund for a duplicate payment Please resolve this.,Billing,Medium,Positive,Social Media,Premium,14.5,Within SLA,Billing Support
+T0014,This is urgent. The invoice amount is incorrect Please resolve this.,Billing,Low,Negative,Social Media,New,11.0,Within SLA,Billing Support
+T0015,Please help me. I was charged twice for my order Please resolve this.,Billing,Medium,Positive,Social Media,Returning,12.3,Within SLA,Billing Support
+T0016,Can someone help? Why was I charged an extra fee? Thank you.,Billing,High,Negative,Email,Premium,4.9,Within SLA,Billing Support
+T0017,I was charged twice for my order I need an update.,Billing,Medium,Positive,Social Media,New,5.6,Within SLA,Billing Support
+T0018,Please help me. The invoice amount is incorrect I need an update.,Billing,Low,Neutral,Email,Premium,19.2,Within SLA,Billing Support
+T0019,I need a refund for a duplicate payment Thank you.,Billing,High,Positive,Email,Premium,6.3,Within SLA,Billing Support
+T0020,Can someone help? I need a refund for a duplicate payment,Billing,High,Positive,Phone,New,7.2,Within SLA,Billing Support
+T0021,I need assistance. I was charged twice for my order Thank you.,Billing,Low,Neutral,Email,Premium,24.1,Within SLA,Billing Support
+T0022,I need assistance. My payment was deducted but the order was cancelled This is frustrating.,Billing,Low,Negative,Social Media,New,11.6,Within SLA,Billing Support
+T0023,I need assistance. Why was I charged an extra fee? I need an update.,Billing,High,Negative,Phone,Returning,5.7,Within SLA,Billing Support
+T0024,Can someone help? Why was I charged an extra fee?,Billing,High,Negative,Email,Premium,1.4,Within SLA,Billing Support
+T0025,I need assistance. Why was I charged an extra fee? Thank you.,Billing,High,Negative,Email,New,1.5,Within SLA,Billing Support
+T0026,Please help me. I was charged twice for my order I need an update.,Billing,High,Neutral,Social Media,New,2.9,Within SLA,Billing Support
+T0027,I need assistance. Why was I charged an extra fee? Thank you.,Billing,Medium,Negative,Social Media,Returning,7.4,Within SLA,Billing Support
+T0028,Please help me. My payment was deducted but the order was cancelled,Billing,Medium,Positive,Social Media,Premium,9.9,Within SLA,Billing Support
+T0029,Please help me. I was charged twice for my order,Billing,High,Positive,Email,New,6.6,Within SLA,Billing Support
+T0030,I need assistance. My payment was deducted but the order was cancelled Thank you.,Billing,High,Positive,Social Media,New,2.3,Within SLA,Billing Support
+T0031,Can someone help? I was charged twice for my order Thank you.,Billing,High,Neutral,Chat,New,7.8,Within SLA,Billing Support
+T0032,Can someone help? The invoice amount is incorrect This is frustrating.,Billing,High,Negative,Email,New,3.8,Within SLA,Billing Support
+T0033,Please help me. The invoice amount is incorrect This is frustrating.,Billing,High,Negative,Social Media,Returning,6.5,Within SLA,Billing Support
+T0034,The invoice amount is incorrect This is frustrating.,Billing,High,Negative,Email,Premium,3.1,Within SLA,Billing Support
+T0035,Please help me. Why was I charged an extra fee? I need an update.,Billing,High,Negative,Chat,New,5.1,Within SLA,Billing Support
+T0036,Please help me. Why was I charged an extra fee? Please resolve this.,Billing,High,Negative,Chat,Returning,1.5,Within SLA,Billing Support
+T0037,I was charged twice for my order Please resolve this.,Billing,Medium,Neutral,Social Media,Premium,12.7,Within SLA,Billing Support
+T0038,Why was I charged an extra fee? Thank you.,Billing,High,Negative,Phone,New,2.8,Within SLA,Billing Support
+T0039,Can someone help? I need a refund for a duplicate payment Please resolve this.,Billing,Medium,Positive,Email,New,10.4,Within SLA,Billing Support
+T0040,The invoice amount is incorrect Thank you.,Billing,Low,Neutral,Phone,New,19.8,Within SLA,Billing Support
+T0041,Please help me. I need a refund for a duplicate payment Please resolve this.,Billing,High,Neutral,Phone,Premium,4.1,Within SLA,Billing Support
+T0042,Please help me. Why was I charged an extra fee? Thank you.,Billing,High,Negative,Chat,Returning,5.6,Within SLA,Billing Support
+T0043,Please help me. I was charged twice for my order Thank you.,Billing,High,Positive,Phone,New,5.2,Within SLA,Billing Support
+T0044,I need a refund for a duplicate payment This is frustrating.,Billing,High,Negative,Email,New,7.4,Within SLA,Billing Support
+T0045,This is urgent. The invoice amount is incorrect,Billing,High,Negative,Phone,New,6.4,Within SLA,Billing Support
+T0046,The invoice amount is incorrect This is frustrating.,Billing,Medium,Negative,Chat,Premium,5.6,Within SLA,Billing Support
+T0047,This is urgent. I was charged twice for my order Thank you.,Billing,Medium,Negative,Email,Returning,10.0,Within SLA,Billing Support
+T0048,Please help me. I need a refund for a duplicate payment I need an update.,Billing,High,Neutral,Phone,Premium,5.7,Within SLA,Billing Support
+T0049,The invoice amount is incorrect Please resolve this.,Billing,Low,Neutral,Chat,Returning,27.0,Within SLA,Billing Support
+T0050,I need assistance. I was charged twice for my order I need an update.,Billing,Medium,Positive,Chat,Returning,15.2,Within SLA,Billing Support
+T0051,Please help me. My payment was deducted but the order was cancelled This is frustrating.,Billing,Medium,Negative,Chat,New,16.0,Within SLA,Billing Support
+T0052,This is urgent. The invoice amount is incorrect I need an update.,Billing,Medium,Negative,Chat,New,16.2,Within SLA,Billing Support
+T0053,Can someone help? My payment was deducted but the order was cancelled I need an update.,Billing,High,Neutral,Phone,Returning,7.8,Within SLA,Billing Support
+T0054,Can someone help? Why was I charged an extra fee? Thank you.,Billing,High,Negative,Phone,New,1.2,Within SLA,Billing Support
+T0055,This is urgent. Why was I charged an extra fee?,Billing,High,Negative,Phone,Returning,4.0,Within SLA,Billing Support
+T0056,Why was I charged an extra fee?,Billing,High,Negative,Phone,New,5.0,Within SLA,Billing Support
+T0057,Please help me. The invoice amount is incorrect Thank you.,Billing,Low,Neutral,Email,Premium,16.0,Within SLA,Billing Support
+T0058,I need a refund for a duplicate payment I need an update.,Billing,Medium,Neutral,Phone,Premium,14.1,Within SLA,Billing Support
+T0059,Can someone help? I need a refund for a duplicate payment I need an update.,Billing,High,Positive,Chat,Returning,4.9,Within SLA,Billing Support
+T0060,I need assistance. The invoice amount is incorrect Thank you.,Billing,Medium,Positive,Email,Returning,11.7,Within SLA,Billing Support
+T0061,I need assistance. I need a refund for a duplicate payment This is frustrating.,Billing,Medium,Negative,Phone,Returning,12.5,Within SLA,Billing Support
+T0062,Can someone help? The invoice amount is incorrect Please resolve this.,Billing,High,Neutral,Phone,Premium,5.6,Within SLA,Billing Support
+T0063,This is urgent. Why was I charged an extra fee?,Billing,Medium,Negative,Phone,New,14.5,Within SLA,Billing Support
+T0064,I need assistance. My payment was deducted but the order was cancelled,Billing,High,Positive,Email,Returning,5.3,Within SLA,Billing Support
+T0065,The invoice amount is incorrect Please resolve this.,Billing,Medium,Positive,Chat,New,10.9,Within SLA,Billing Support
+T0066,Please help me. I was charged twice for my order This is frustrating.,Billing,High,Negative,Social Media,New,6.6,Within SLA,Billing Support
+T0067,I need assistance. Why was I charged an extra fee?,Billing,High,Negative,Phone,Returning,6.6,Within SLA,Billing Support
+T0068,Why was I charged an extra fee? This is frustrating.,Billing,Medium,Negative,Chat,Premium,11.7,Within SLA,Billing Support
+T0069,Can someone help? The invoice amount is incorrect I need an update.,Billing,Medium,Positive,Social Media,Premium,14.7,Within SLA,Billing Support
+T0070,This is urgent. My payment was deducted but the order was cancelled This is frustrating.,Billing,High,Negative,Phone,Returning,3.0,Within SLA,Billing Support
+T0071,I need a refund for a duplicate payment,Billing,High,Neutral,Chat,Premium,3.7,Within SLA,Billing Support
+T0072,Please help me. My payment was deducted but the order was cancelled This is frustrating.,Billing,High,Negative,Social Media,New,4.8,Within SLA,Billing Support
+T0073,Can someone help? My payment was deducted but the order was cancelled This is frustrating.,Billing,Low,Negative,Email,Premium,20.8,Within SLA,Billing Support
+T0074,Can someone help? The invoice amount is incorrect,Billing,Low,Positive,Social Media,Premium,24.6,Within SLA,Billing Support
+T0075,Why was I charged an extra fee? Please resolve this.,Billing,High,Negative,Social Media,New,2.9,Within SLA,Billing Support
+T0076,This is urgent. The invoice amount is incorrect This is frustrating.,Billing,Medium,Negative,Chat,Premium,15.8,Within SLA,Billing Support
+T0077,Please help me. Why was I charged an extra fee? This is frustrating.,Billing,Medium,Negative,Email,Premium,13.3,Within SLA,Billing Support
+T0078,I need assistance. The invoice amount is incorrect This is frustrating.,Billing,High,Negative,Phone,New,2.8,Within SLA,Billing Support
+T0079,This is urgent. The invoice amount is incorrect I need an update.,Billing,Medium,Negative,Social Media,Returning,9.3,Within SLA,Billing Support
+T0080,Can someone help? I was charged twice for my order,Billing,Medium,Neutral,Phone,New,18.0,Within SLA,Billing Support
+T0081,Please help me. I was charged twice for my order,Billing,Low,Neutral,Chat,New,26.5,Within SLA,Billing Support
+T0082,Can someone help? My payment was deducted but the order was cancelled,Billing,Medium,Neutral,Phone,Returning,10.5,Within SLA,Billing Support
+T0083,My payment was deducted but the order was cancelled Thank you.,Billing,Low,Neutral,Chat,Returning,25.1,Within SLA,Billing Support
+T0084,I was charged twice for my order,Billing,Low,Positive,Chat,New,16.7,Within SLA,Billing Support
+T0085,I need assistance. Why was I charged an extra fee?,Billing,Medium,Negative,Email,Premium,8.2,Within SLA,Billing Support
+T0086,This is urgent. I was charged twice for my order Thank you.,Billing,High,Negative,Phone,New,3.6,Within SLA,Billing Support
+T0087,Can someone help? The invoice amount is incorrect,Billing,High,Positive,Social Media,Premium,5.4,Within SLA,Billing Support
+T0088,Can someone help? My payment was deducted but the order was cancelled Please resolve this.,Billing,Medium,Positive,Social Media,Returning,12.6,Within SLA,Billing Support
+T0089,The invoice amount is incorrect I need an update.,Billing,High,Neutral,Email,Returning,6.8,Within SLA,Billing Support
+T0090,I need assistance. The invoice amount is incorrect This is frustrating.,Billing,Medium,Negative,Phone,New,13.4,Within SLA,Billing Support
+T0091,This is urgent. The invoice amount is incorrect Please resolve this.,Billing,High,Negative,Phone,Returning,3.5,Within SLA,Billing Support
+T0092,I need a refund for a duplicate payment I need an update.,Billing,Medium,Neutral,Social Media,Returning,5.2,Within SLA,Billing Support
+T0093,I need assistance. Why was I charged an extra fee? This is frustrating.,Billing,Medium,Negative,Email,New,10.9,Within SLA,Billing Support
+T0094,I need assistance. I need a refund for a duplicate payment This is frustrating.,Billing,Medium,Negative,Phone,Returning,8.3,Within SLA,Billing Support
+T0095,Why was I charged an extra fee? I need an update.,Billing,High,Negative,Phone,Returning,6.2,Within SLA,Billing Support
+T0096,This is urgent. The invoice amount is incorrect I need an update.,Billing,High,Negative,Chat,Returning,1.8,Within SLA,Billing Support
+T0097,I was charged twice for my order Please resolve this.,Billing,High,Positive,Phone,New,2.9,Within SLA,Billing Support
+T0098,This is urgent. My payment was deducted but the order was cancelled Please resolve this.,Billing,High,Negative,Chat,Returning,3.1,Within SLA,Billing Support
+T0099,Please help me. I was charged twice for my order Thank you.,Billing,High,Neutral,Social Media,New,5.5,Within SLA,Billing Support
+T0100,I was charged twice for my order I need an update.,Billing,High,Positive,Email,Returning,3.4,Within SLA,Billing Support
+T0101,Please help me. I am unable to reset my password,Technical,High,Neutral,Email,New,5.0,Within SLA,Technical Support
+T0102,The mobile app keeps crashing I need an update.,Technical,High,Neutral,Social Media,Premium,1.8,Within SLA,Technical Support
+T0103,The payment page shows an error Please resolve this.,Technical,Medium,Negative,Social Media,Returning,9.3,Within SLA,Technical Support
+T0104,Can someone help? The payment page shows an error I need an update.,Technical,Medium,Negative,Email,New,4.8,Within SLA,Technical Support
+T0105,This is urgent. The mobile app keeps crashing,Technical,High,Negative,Email,New,2.2,Within SLA,Technical Support
+T0106,Can someone help? I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Email,New,10.6,Within SLA,Technical Support
+T0107,This is urgent. The website is not loading This is frustrating.,Technical,High,Negative,Phone,Premium,2.6,Within SLA,Technical Support
+T0108,I need assistance. The payment page shows an error This is frustrating.,Technical,High,Negative,Chat,Returning,2.6,Within SLA,Technical Support
+T0109,Please help me. The mobile app keeps crashing,Technical,High,Positive,Phone,Returning,5.2,Within SLA,Technical Support
+T0110,Can someone help? I cannot log in to my account I need an update.,Technical,Medium,Negative,Social Media,Returning,17.2,Within SLA,Technical Support
+T0111,I cannot log in to my account,Technical,Medium,Negative,Phone,New,14.3,Within SLA,Technical Support
+T0112,I need assistance. I cannot log in to my account Thank you.,Technical,Medium,Negative,Phone,Premium,4.3,Within SLA,Technical Support
+T0113,I need assistance. I cannot log in to my account This is frustrating.,Technical,High,Negative,Phone,New,4.1,Within SLA,Technical Support
+T0114,Can someone help? The payment page shows an error This is frustrating.,Technical,Low,Negative,Social Media,Returning,18.3,Within SLA,Technical Support
+T0115,Please help me. The website is not loading Please resolve this.,Technical,High,Positive,Social Media,Premium,3.0,Within SLA,Technical Support
+T0116,Can someone help? I cannot log in to my account,Technical,High,Negative,Social Media,Premium,3.3,Within SLA,Technical Support
+T0117,I cannot log in to my account This is frustrating.,Technical,High,Negative,Phone,Premium,2.3,Within SLA,Technical Support
+T0118,Can someone help? I am unable to reset my password,Technical,High,Neutral,Social Media,Premium,7.5,Within SLA,Technical Support
+T0119,Please help me. I am unable to reset my password,Technical,Low,Neutral,Phone,Premium,23.6,Within SLA,Technical Support
+T0120,I cannot log in to my account This is frustrating.,Technical,High,Negative,Email,Returning,7.9,Within SLA,Technical Support
+T0121,I need assistance. I cannot log in to my account This is frustrating.,Technical,Low,Negative,Phone,Returning,14.4,Within SLA,Technical Support
+T0122,Can someone help? I am unable to reset my password Please resolve this.,Technical,High,Neutral,Chat,New,3.7,Within SLA,Technical Support
+T0123,Can someone help? The website is not loading I need an update.,Technical,Low,Positive,Phone,Premium,26.1,Within SLA,Technical Support
+T0124,The website is not loading Thank you.,Technical,Low,Positive,Social Media,Premium,27.0,Within SLA,Technical Support
+T0125,This is urgent. I am unable to reset my password I need an update.,Technical,Medium,Negative,Social Media,Returning,11.6,Within SLA,Technical Support
+T0126,I need assistance. The mobile app keeps crashing Thank you.,Technical,High,Positive,Social Media,Premium,1.3,Within SLA,Technical Support
+T0127,Can someone help? I am unable to reset my password Please resolve this.,Technical,High,Neutral,Phone,New,1.9,Within SLA,Technical Support
+T0128,Please help me. I am unable to reset my password Thank you.,Technical,Low,Neutral,Social Media,Premium,23.9,Within SLA,Technical Support
+T0129,Please help me. The mobile app keeps crashing This is frustrating.,Technical,Medium,Negative,Social Media,Premium,7.7,Within SLA,Technical Support
+T0130,This is urgent. I cannot log in to my account Thank you.,Technical,High,Negative,Social Media,Premium,3.2,Within SLA,Technical Support
+T0131,I cannot log in to my account,Technical,High,Negative,Phone,New,5.8,Within SLA,Technical Support
+T0132,Can someone help? I cannot log in to my account,Technical,Medium,Negative,Email,Returning,13.9,Within SLA,Technical Support
+T0133,This is urgent. The mobile app keeps crashing,Technical,High,Negative,Phone,Returning,6.6,Within SLA,Technical Support
+T0134,Can someone help? The website is not loading Please resolve this.,Technical,High,Positive,Chat,New,5.0,Within SLA,Technical Support
+T0135,Please help me. The mobile app keeps crashing Thank you.,Technical,Medium,Neutral,Chat,New,11.0,Within SLA,Technical Support
+T0136,This is urgent. I am unable to reset my password This is frustrating.,Technical,High,Negative,Social Media,Returning,1.1,Within SLA,Technical Support
+T0137,I need assistance. The payment page shows an error,Technical,High,Negative,Phone,Premium,3.4,Within SLA,Technical Support
+T0138,This is urgent. I am unable to reset my password This is frustrating.,Technical,Medium,Negative,Social Media,Returning,6.8,Within SLA,Technical Support
+T0139,I need assistance. I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Phone,New,12.0,Within SLA,Technical Support
+T0140,This is urgent. I am unable to reset my password,Technical,Medium,Negative,Email,Premium,13.6,Within SLA,Technical Support
+T0141,This is urgent. I am unable to reset my password Please resolve this.,Technical,Medium,Negative,Chat,Premium,8.9,Within SLA,Technical Support
+T0142,I need assistance. The website is not loading,Technical,Low,Neutral,Social Media,New,14.8,Within SLA,Technical Support
+T0143,This is urgent. The payment page shows an error Please resolve this.,Technical,High,Negative,Social Media,New,3.1,Within SLA,Technical Support
+T0144,I need assistance. The mobile app keeps crashing Thank you.,Technical,Medium,Positive,Phone,New,11.4,Within SLA,Technical Support
+T0145,Can someone help? The website is not loading I need an update.,Technical,Medium,Positive,Social Media,New,15.3,Within SLA,Technical Support
+T0146,I need assistance. The mobile app keeps crashing This is frustrating.,Technical,Low,Negative,Phone,New,25.7,Within SLA,Technical Support
+T0147,Please help me. I am unable to reset my password I need an update.,Technical,High,Positive,Phone,Premium,3.6,Within SLA,Technical Support
+T0148,This is urgent. I am unable to reset my password,Technical,Medium,Negative,Phone,Premium,10.6,Within SLA,Technical Support
+T0149,Please help me. The mobile app keeps crashing This is frustrating.,Technical,Low,Negative,Social Media,New,14.6,Within SLA,Technical Support
+T0150,Please help me. The mobile app keeps crashing,Technical,High,Positive,Chat,Premium,1.8,Within SLA,Technical Support
+T0151,Can someone help? The mobile app keeps crashing This is frustrating.,Technical,High,Negative,Social Media,Premium,7.6,Within SLA,Technical Support
+T0152,Can someone help? The mobile app keeps crashing,Technical,Medium,Positive,Phone,New,17.1,Within SLA,Technical Support
+T0153,I need assistance. The website is not loading This is frustrating.,Technical,High,Negative,Phone,New,2.7,Within SLA,Technical Support
+T0154,The website is not loading I need an update.,Technical,High,Positive,Email,Returning,2.3,Within SLA,Technical Support
+T0155,I need assistance. I cannot log in to my account Thank you.,Technical,Low,Negative,Phone,New,9.1,Within SLA,Technical Support
+T0156,The mobile app keeps crashing Please resolve this.,Technical,High,Neutral,Chat,Returning,5.1,Within SLA,Technical Support
+T0157,The mobile app keeps crashing,Technical,High,Neutral,Phone,New,7.9,Within SLA,Technical Support
+T0158,Please help me. I cannot log in to my account Please resolve this.,Technical,High,Negative,Chat,Premium,6.5,Within SLA,Technical Support
+T0159,Please help me. The website is not loading Please resolve this.,Technical,High,Neutral,Email,Premium,6.2,Within SLA,Technical Support
+T0160,Can someone help? I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Email,Returning,11.2,Within SLA,Technical Support
+T0161,I need assistance. The payment page shows an error Thank you.,Technical,High,Negative,Phone,Returning,6.5,Within SLA,Technical Support
+T0162,Please help me. I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Email,Returning,10.0,Within SLA,Technical Support
+T0163,Please help me. I am unable to reset my password,Technical,High,Neutral,Phone,Premium,1.5,Within SLA,Technical Support
+T0164,The payment page shows an error I need an update.,Technical,High,Negative,Phone,Returning,5.2,Within SLA,Technical Support
+T0165,The payment page shows an error This is frustrating.,Technical,High,Negative,Chat,Returning,5.9,Within SLA,Technical Support
+T0166,I need assistance. I am unable to reset my password This is frustrating.,Technical,High,Negative,Social Media,Premium,4.2,Within SLA,Technical Support
+T0167,This is urgent. I cannot log in to my account This is frustrating.,Technical,High,Negative,Chat,Premium,2.8,Within SLA,Technical Support
+T0168,Please help me. I am unable to reset my password,Technical,Medium,Neutral,Phone,New,10.0,Within SLA,Technical Support
+T0169,Please help me. The payment page shows an error Thank you.,Technical,Low,Negative,Email,Returning,20.4,Within SLA,Technical Support
+T0170,Can someone help? The website is not loading,Technical,Low,Positive,Chat,New,15.7,Within SLA,Technical Support
+T0171,I need assistance. I am unable to reset my password,Technical,High,Positive,Phone,Premium,1.8,Within SLA,Technical Support
+T0172,Can someone help? The mobile app keeps crashing Thank you.,Technical,Low,Neutral,Phone,New,21.4,Within SLA,Technical Support
+T0173,This is urgent. The mobile app keeps crashing I need an update.,Technical,Low,Negative,Chat,New,15.7,Within SLA,Technical Support
+T0174,Can someone help? The payment page shows an error,Technical,High,Negative,Email,New,5.4,Within SLA,Technical Support
+T0175,I need assistance. The payment page shows an error This is frustrating.,Technical,High,Negative,Phone,Returning,3.4,Within SLA,Technical Support
+T0176,The website is not loading Thank you.,Technical,High,Neutral,Email,Premium,2.1,Within SLA,Technical Support
+T0177,This is urgent. I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Social Media,Returning,10.8,Within SLA,Technical Support
+T0178,I need assistance. The website is not loading Thank you.,Technical,High,Positive,Social Media,Premium,1.8,Within SLA,Technical Support
+T0179,Please help me. The website is not loading Please resolve this.,Technical,High,Neutral,Phone,New,1.1,Within SLA,Technical Support
+T0180,This is urgent. The mobile app keeps crashing I need an update.,Technical,High,Negative,Social Media,New,1.1,Within SLA,Technical Support
+T0181,Can someone help? The mobile app keeps crashing Thank you.,Technical,Medium,Positive,Email,Returning,5.0,Within SLA,Technical Support
+T0182,Can someone help? I cannot log in to my account,Technical,Medium,Negative,Social Media,Premium,12.1,Within SLA,Technical Support
+T0183,This is urgent. I am unable to reset my password,Technical,High,Negative,Chat,Premium,7.8,Within SLA,Technical Support
+T0184,This is urgent. I am unable to reset my password,Technical,High,Negative,Social Media,Premium,1.7,Within SLA,Technical Support
+T0185,I am unable to reset my password,Technical,High,Positive,Chat,Returning,6.2,Within SLA,Technical Support
+T0186,Please help me. The mobile app keeps crashing Thank you.,Technical,Medium,Neutral,Phone,Returning,16.7,Within SLA,Technical Support
+T0187,I need assistance. The mobile app keeps crashing,Technical,High,Neutral,Chat,Premium,2.2,Within SLA,Technical Support
+T0188,I need assistance. I cannot log in to my account This is frustrating.,Technical,High,Negative,Social Media,Premium,4.9,Within SLA,Technical Support
+T0189,The payment page shows an error I need an update.,Technical,Medium,Negative,Chat,Returning,12.8,Within SLA,Technical Support
+T0190,Can someone help? I cannot log in to my account This is frustrating.,Technical,Medium,Negative,Email,Returning,15.1,Within SLA,Technical Support
+T0191,Please help me. The payment page shows an error I need an update.,Technical,High,Negative,Phone,Returning,1.3,Within SLA,Technical Support
+T0192,Please help me. I cannot log in to my account Thank you.,Technical,Medium,Negative,Email,Returning,9.4,Within SLA,Technical Support
+T0193,I need assistance. The payment page shows an error I need an update.,Technical,Medium,Negative,Email,Returning,11.0,Within SLA,Technical Support
+T0194,This is urgent. I cannot log in to my account,Technical,High,Negative,Chat,Premium,2.2,Within SLA,Technical Support
+T0195,Can someone help? I am unable to reset my password Thank you.,Technical,High,Neutral,Phone,Returning,3.5,Within SLA,Technical Support
+T0196,This is urgent. I am unable to reset my password Thank you.,Technical,High,Negative,Phone,New,5.4,Within SLA,Technical Support
+T0197,Please help me. The website is not loading Thank you.,Technical,Medium,Positive,Chat,Returning,7.5,Within SLA,Technical Support
+T0198,I cannot log in to my account Please resolve this.,Technical,Low,Negative,Social Media,New,14.8,Within SLA,Technical Support
+T0199,Please help me. The payment page shows an error I need an update.,Technical,Medium,Negative,Phone,New,13.0,Within SLA,Technical Support
+T0200,Please help me. The payment page shows an error This is frustrating.,Technical,High,Negative,Phone,New,1.1,Within SLA,Technical Support
+T0201,This is urgent. My package has not arrived yet This is frustrating.,Delivery,High,Negative,Chat,New,8.0,Within SLA,Logistics Support
+T0202,Please help me. The delivery is delayed Thank you.,Delivery,Medium,Negative,Email,Premium,15.7,Within SLA,Logistics Support
+T0203,The delivery is delayed Please resolve this.,Delivery,Medium,Negative,Chat,Premium,6.2,Within SLA,Logistics Support
+T0204,I need assistance. Can you provide an update on my shipment? This is frustrating.,Delivery,High,Negative,Chat,Returning,3.6,Within SLA,Logistics Support
+T0205,This is urgent. Can you provide an update on my shipment? This is frustrating.,Delivery,High,Negative,Social Media,New,2.7,Within SLA,Logistics Support
+T0206,The delivery is delayed This is frustrating.,Delivery,Medium,Negative,Social Media,Premium,7.9,Within SLA,Logistics Support
+T0207,Can someone help? Can you provide an update on my shipment? Please resolve this.,Delivery,Low,Neutral,Email,Premium,27.2,Within SLA,Logistics Support
+T0208,This is urgent. I received the wrong delivery date Thank you.,Delivery,Low,Negative,Email,Returning,23.7,Within SLA,Logistics Support
+T0209,I need assistance. Where is my order? I need an update.,Delivery,Medium,Neutral,Email,New,15.6,Within SLA,Logistics Support
+T0210,This is urgent. I received the wrong delivery date,Delivery,Medium,Negative,Phone,New,9.6,Within SLA,Logistics Support
+T0211,Please help me. I received the wrong delivery date I need an update.,Delivery,High,Negative,Email,Premium,3.2,Within SLA,Logistics Support
+T0212,I need assistance. The delivery is delayed Please resolve this.,Delivery,High,Negative,Social Media,Premium,7.4,Within SLA,Logistics Support
+T0213,Can someone help? My package has not arrived yet This is frustrating.,Delivery,Medium,Negative,Email,Returning,16.7,Within SLA,Logistics Support
+T0214,I need assistance. My package has not arrived yet Thank you.,Delivery,Low,Positive,Phone,New,10.4,Within SLA,Logistics Support
+T0215,Please help me. The delivery is delayed,Delivery,High,Negative,Social Media,New,5.5,Within SLA,Logistics Support
+T0216,Can someone help? Where is my order? Thank you.,Delivery,Medium,Neutral,Phone,Returning,14.1,Within SLA,Logistics Support
+T0217,Where is my order? I need an update.,Delivery,High,Positive,Email,Premium,2.3,Within SLA,Logistics Support
+T0218,Please help me. The delivery is delayed Thank you.,Delivery,Medium,Negative,Email,Returning,15.0,Within SLA,Logistics Support
+T0219,Please help me. I received the wrong delivery date This is frustrating.,Delivery,Low,Negative,Email,Returning,13.6,Within SLA,Logistics Support
+T0220,This is urgent. Where is my order? Please resolve this.,Delivery,Medium,Negative,Phone,New,12.8,Within SLA,Logistics Support
+T0221,This is urgent. Where is my order? Thank you.,Delivery,Medium,Negative,Social Media,Premium,13.0,Within SLA,Logistics Support
+T0222,I need assistance. I received the wrong delivery date Please resolve this.,Delivery,High,Negative,Social Media,New,6.4,Within SLA,Logistics Support
+T0223,I need assistance. The delivery is delayed,Delivery,Medium,Negative,Phone,Returning,16.4,Within SLA,Logistics Support
+T0224,Can someone help? Can you provide an update on my shipment? Thank you.,Delivery,Medium,Neutral,Chat,Returning,14.5,Within SLA,Logistics Support
+T0225,Please help me. The delivery is delayed I need an update.,Delivery,Medium,Negative,Social Media,Returning,15.2,Within SLA,Logistics Support
+T0226,Can someone help? I received the wrong delivery date I need an update.,Delivery,Low,Negative,Social Media,Returning,18.9,Within SLA,Logistics Support
+T0227,This is urgent. Can you provide an update on my shipment?,Delivery,Medium,Negative,Chat,Premium,5.1,Within SLA,Logistics Support
+T0228,This is urgent. The delivery is delayed,Delivery,High,Negative,Phone,Returning,5.6,Within SLA,Logistics Support
+T0229,Can someone help? Can you provide an update on my shipment? Please resolve this.,Delivery,Medium,Positive,Phone,Premium,10.3,Within SLA,Logistics Support
+T0230,This is urgent. I received the wrong delivery date,Delivery,High,Negative,Phone,Premium,5.5,Within SLA,Logistics Support
+T0231,Please help me. My package has not arrived yet Please resolve this.,Delivery,Low,Positive,Email,New,8.8,Within SLA,Logistics Support
+T0232,This is urgent. The delivery is delayed This is frustrating.,Delivery,Low,Negative,Chat,Premium,8.7,Within SLA,Logistics Support
+T0233,This is urgent. I received the wrong delivery date I need an update.,Delivery,Medium,Negative,Chat,Premium,5.1,Within SLA,Logistics Support
+T0234,Can someone help? The delivery is delayed I need an update.,Delivery,Medium,Negative,Email,New,7.5,Within SLA,Logistics Support
+T0235,Can someone help? My package has not arrived yet Thank you.,Delivery,Medium,Neutral,Phone,Premium,7.7,Within SLA,Logistics Support
+T0236,I need assistance. I received the wrong delivery date Thank you.,Delivery,Medium,Negative,Social Media,New,16.8,Within SLA,Logistics Support
+T0237,I need assistance. Where is my order?,Delivery,Medium,Positive,Phone,Premium,18.0,Within SLA,Logistics Support
+T0238,Please help me. The delivery is delayed Thank you.,Delivery,Medium,Negative,Chat,Premium,16.5,Within SLA,Logistics Support
+T0239,This is urgent. My package has not arrived yet Thank you.,Delivery,High,Negative,Chat,New,7.9,Within SLA,Logistics Support
+T0240,Please help me. I received the wrong delivery date I need an update.,Delivery,Medium,Negative,Chat,Premium,9.2,Within SLA,Logistics Support
+T0241,Please help me. Where is my order? I need an update.,Delivery,Medium,Positive,Social Media,Premium,11.4,Within SLA,Logistics Support
+T0242,I need assistance. Where is my order? I need an update.,Delivery,Medium,Positive,Phone,New,10.5,Within SLA,Logistics Support
+T0243,Can you provide an update on my shipment? Please resolve this.,Delivery,Medium,Neutral,Email,New,10.1,Within SLA,Logistics Support
+T0244,I need assistance. Can you provide an update on my shipment? I need an update.,Delivery,High,Positive,Chat,Returning,7.5,Within SLA,Logistics Support
+T0245,This is urgent. Can you provide an update on my shipment?,Delivery,Medium,Negative,Phone,New,12.9,Within SLA,Logistics Support
+T0246,The delivery is delayed Thank you.,Delivery,High,Negative,Chat,New,5.5,Within SLA,Logistics Support
+T0247,Can you provide an update on my shipment? I need an update.,Delivery,Low,Neutral,Email,New,26.2,Within SLA,Logistics Support
+T0248,Where is my order? I need an update.,Delivery,Medium,Positive,Email,Returning,12.7,Within SLA,Logistics Support
+T0249,This is urgent. Can you provide an update on my shipment? I need an update.,Delivery,Medium,Negative,Social Media,Returning,15.3,Within SLA,Logistics Support
+T0250,Please help me. I received the wrong delivery date,Delivery,High,Negative,Social Media,New,3.9,Within SLA,Logistics Support
+T0251,The delivery is delayed Please resolve this.,Delivery,Medium,Negative,Phone,Returning,14.1,Within SLA,Logistics Support
+T0252,This is urgent. My package has not arrived yet Thank you.,Delivery,Medium,Negative,Social Media,New,8.5,Within SLA,Logistics Support
+T0253,Can someone help? The delivery is delayed Please resolve this.,Delivery,High,Negative,Social Media,Premium,1.4,Within SLA,Logistics Support
+T0254,I need assistance. I received the wrong delivery date Please resolve this.,Delivery,Low,Negative,Phone,New,28.5,Within SLA,Logistics Support
+T0255,Can someone help? My package has not arrived yet Thank you.,Delivery,Medium,Positive,Email,Returning,11.0,Within SLA,Logistics Support
+T0256,Can someone help? Can you provide an update on my shipment? Please resolve this.,Delivery,High,Positive,Phone,Returning,1.3,Within SLA,Logistics Support
+T0257,Can someone help? Can you provide an update on my shipment? I need an update.,Delivery,Medium,Neutral,Phone,Premium,10.0,Within SLA,Logistics Support
+T0258,Can someone help? The delivery is delayed I need an update.,Delivery,High,Negative,Chat,Returning,1.4,Within SLA,Logistics Support
+T0259,This is urgent. Can you provide an update on my shipment?,Delivery,Medium,Negative,Phone,Premium,10.3,Within SLA,Logistics Support
+T0260,Please help me. Can you provide an update on my shipment? Please resolve this.,Delivery,Low,Positive,Phone,Premium,16.2,Within SLA,Logistics Support
+T0261,I need assistance. The delivery is delayed Please resolve this.,Delivery,Medium,Negative,Email,New,9.6,Within SLA,Logistics Support
+T0262,I need assistance. Where is my order? I need an update.,Delivery,Low,Positive,Chat,Returning,11.3,Within SLA,Logistics Support
+T0263,This is urgent. Can you provide an update on my shipment? Please resolve this.,Delivery,Medium,Negative,Phone,Premium,12.6,Within SLA,Logistics Support
+T0264,The delivery is delayed Thank you.,Delivery,Medium,Negative,Phone,Returning,13.9,Within SLA,Logistics Support
+T0265,This is urgent. Where is my order? I need an update.,Delivery,Medium,Negative,Phone,Premium,17.7,Within SLA,Logistics Support
+T0266,Where is my order? This is frustrating.,Delivery,Medium,Negative,Chat,Premium,13.2,Within SLA,Logistics Support
+T0267,Where is my order? This is frustrating.,Delivery,High,Negative,Social Media,New,5.4,Within SLA,Logistics Support
+T0268,Please help me. My package has not arrived yet Thank you.,Delivery,Low,Neutral,Social Media,Returning,12.2,Within SLA,Logistics Support
+T0269,I need assistance. I received the wrong delivery date This is frustrating.,Delivery,Medium,Negative,Social Media,Premium,9.7,Within SLA,Logistics Support
+T0270,I need assistance. Where is my order? Thank you.,Delivery,High,Positive,Social Media,Premium,8.0,Within SLA,Logistics Support
+T0271,This is urgent. I received the wrong delivery date Please resolve this.,Delivery,Medium,Negative,Phone,Premium,11.5,Within SLA,Logistics Support
+T0272,The delivery is delayed This is frustrating.,Delivery,High,Negative,Phone,New,2.7,Within SLA,Logistics Support
+T0273,This is urgent. The delivery is delayed Please resolve this.,Delivery,Medium,Negative,Social Media,Returning,10.8,Within SLA,Logistics Support
+T0274,This is urgent. Can you provide an update on my shipment? I need an update.,Delivery,High,Negative,Social Media,Returning,5.7,Within SLA,Logistics Support
+T0275,I need assistance. The delivery is delayed I need an update.,Delivery,High,Negative,Email,Returning,7.7,Within SLA,Logistics Support
+T0276,This is urgent. I received the wrong delivery date This is frustrating.,Delivery,High,Negative,Phone,Premium,6.8,Within SLA,Logistics Support
+T0277,I need assistance. The delivery is delayed,Delivery,Medium,Negative,Chat,New,12.2,Within SLA,Logistics Support
+T0278,I need assistance. Can you provide an update on my shipment? Please resolve this.,Delivery,High,Positive,Social Media,New,3.3,Within SLA,Logistics Support
+T0279,Please help me. My package has not arrived yet Thank you.,Delivery,Low,Neutral,Social Media,Returning,17.0,Within SLA,Logistics Support
+T0280,This is urgent. My package has not arrived yet I need an update.,Delivery,Medium,Negative,Email,Premium,4.8,Within SLA,Logistics Support
+T0281,I need assistance. Can you provide an update on my shipment? Thank you.,Delivery,Medium,Neutral,Chat,Returning,16.8,Within SLA,Logistics Support
+T0282,Please help me. My package has not arrived yet This is frustrating.,Delivery,Medium,Negative,Phone,New,6.6,Within SLA,Logistics Support
+T0283,This is urgent. Where is my order? Thank you.,Delivery,Medium,Negative,Phone,Returning,17.0,Within SLA,Logistics Support
+T0284,I received the wrong delivery date Thank you.,Delivery,Medium,Negative,Social Media,Returning,17.1,Within SLA,Logistics Support
+T0285,Please help me. My package has not arrived yet I need an update.,Delivery,High,Positive,Chat,New,5.5,Within SLA,Logistics Support
+T0286,This is urgent. The delivery is delayed Thank you.,Delivery,Medium,Negative,Social Media,Returning,6.7,Within SLA,Logistics Support
+T0287,This is urgent. Can you provide an update on my shipment?,Delivery,Medium,Negative,Chat,Returning,5.3,Within SLA,Logistics Support
+T0288,I need assistance. The delivery is delayed,Delivery,Medium,Negative,Phone,Returning,7.3,Within SLA,Logistics Support
+T0289,The delivery is delayed Thank you.,Delivery,High,Negative,Chat,New,5.6,Within SLA,Logistics Support
+T0290,Can someone help? Where is my order? I need an update.,Delivery,High,Positive,Phone,Returning,5.8,Within SLA,Logistics Support
+T0291,I need assistance. Can you provide an update on my shipment? Please resolve this.,Delivery,Low,Positive,Phone,Returning,11.4,Within SLA,Logistics Support
+T0292,Can someone help? Can you provide an update on my shipment? Thank you.,Delivery,Low,Neutral,Email,Premium,24.8,Within SLA,Logistics Support
+T0293,I received the wrong delivery date I need an update.,Delivery,High,Negative,Email,Premium,4.9,Within SLA,Logistics Support
+T0294,I need assistance. Can you provide an update on my shipment? Thank you.,Delivery,Medium,Neutral,Social Media,New,8.6,Within SLA,Logistics Support
+T0295,My package has not arrived yet This is frustrating.,Delivery,High,Negative,Email,Returning,4.6,Within SLA,Logistics Support
+T0296,My package has not arrived yet This is frustrating.,Delivery,Medium,Negative,Social Media,Premium,4.8,Within SLA,Logistics Support
+T0297,Please help me. The delivery is delayed This is frustrating.,Delivery,Medium,Negative,Chat,Premium,4.0,Within SLA,Logistics Support
+T0298,Please help me. Where is my order? This is frustrating.,Delivery,Medium,Negative,Email,New,4.9,Within SLA,Logistics Support
+T0299,Please help me. I received the wrong delivery date I need an update.,Delivery,Medium,Negative,Social Media,Returning,14.8,Within SLA,Logistics Support
+T0300,Can someone help? I received the wrong delivery date This is frustrating.,Delivery,Medium,Negative,Chat,Premium,13.6,Within SLA,Logistics Support
+T0301,Please help me. I want to cancel my subscription Please resolve this.,Account,Low,Positive,Chat,New,19.6,Within SLA,Account Support
+T0302,This is urgent. I want to change my account details This is frustrating.,Account,Medium,Negative,Social Media,New,11.6,Within SLA,Account Support
+T0303,Can someone help? Please help me update my email address I need an update.,Account,High,Neutral,Email,New,7.6,Within SLA,Account Support
+T0304,How can I change my phone number?,Account,High,Neutral,Email,Returning,1.7,Within SLA,Account Support
+T0305,Please help me. I cannot access my account profile Please resolve this.,Account,Medium,Negative,Chat,Premium,9.6,Within SLA,Account Support
+T0306,Please help me. Please help me update my email address Please resolve this.,Account,Medium,Positive,Phone,Premium,7.3,Within SLA,Account Support
+T0307,This is urgent. I cannot access my account profile Please resolve this.,Account,Medium,Negative,Chat,Returning,6.0,Within SLA,Account Support
+T0308,This is urgent. I want to cancel my subscription,Account,Medium,Negative,Chat,Premium,12.3,Within SLA,Account Support
+T0309,How can I change my phone number? This is frustrating.,Account,High,Negative,Social Media,Premium,3.4,Within SLA,Account Support
+T0310,Can someone help? I want to cancel my subscription This is frustrating.,Account,High,Negative,Social Media,New,3.6,Within SLA,Account Support
+T0311,This is urgent. Please help me update my email address Please resolve this.,Account,Low,Negative,Social Media,Returning,28.1,Within SLA,Account Support
+T0312,I cannot access my account profile Please resolve this.,Account,Medium,Negative,Phone,Premium,7.6,Within SLA,Account Support
+T0313,Can someone help? I want to change my account details I need an update.,Account,High,Neutral,Social Media,Premium,1.4,Within SLA,Account Support
+T0314,I cannot access my account profile,Account,Low,Negative,Chat,Returning,12.1,Within SLA,Account Support
+T0315,This is urgent. Please help me update my email address I need an update.,Account,Low,Negative,Chat,Premium,8.3,Within SLA,Account Support
+T0316,Can someone help? I want to change my account details Please resolve this.,Account,Medium,Neutral,Chat,Premium,9.6,Within SLA,Account Support
+T0317,This is urgent. I want to cancel my subscription This is frustrating.,Account,Medium,Negative,Phone,Returning,13.1,Within SLA,Account Support
+T0318,I want to cancel my subscription This is frustrating.,Account,Medium,Negative,Social Media,Returning,15.2,Within SLA,Account Support
+T0319,This is urgent. Please help me update my email address I need an update.,Account,Medium,Negative,Chat,Premium,11.9,Within SLA,Account Support
+T0320,Please help me. Please help me update my email address I need an update.,Account,Medium,Positive,Chat,Returning,8.1,Within SLA,Account Support
+T0321,Can someone help? Please help me update my email address Thank you.,Account,Low,Positive,Phone,Returning,20.1,Within SLA,Account Support
+T0322,Can someone help? How can I change my phone number? This is frustrating.,Account,High,Negative,Chat,New,6.6,Within SLA,Account Support
+T0323,Can someone help? I cannot access my account profile Please resolve this.,Account,Low,Negative,Email,Premium,19.9,Within SLA,Account Support
+T0324,Please help me. I want to change my account details,Account,Medium,Positive,Chat,New,5.9,Within SLA,Account Support
+T0325,Please help me. Please help me update my email address Please resolve this.,Account,Medium,Positive,Social Media,Premium,4.8,Within SLA,Account Support
+T0326,Please help me. How can I change my phone number?,Account,Medium,Positive,Phone,Premium,4.2,Within SLA,Account Support
+T0327,Please help me. I want to cancel my subscription Thank you.,Account,Low,Positive,Chat,New,25.7,Within SLA,Account Support
+T0328,I want to change my account details Please resolve this.,Account,High,Positive,Phone,Returning,6.7,Within SLA,Account Support
+T0329,This is urgent. I want to change my account details This is frustrating.,Account,Medium,Negative,Chat,Returning,7.4,Within SLA,Account Support
+T0330,Please help me. I want to change my account details,Account,Medium,Positive,Email,Premium,11.7,Within SLA,Account Support
+T0331,I need assistance. I want to change my account details,Account,Medium,Positive,Phone,Premium,13.0,Within SLA,Account Support
+T0332,I want to change my account details,Account,High,Positive,Email,Premium,2.9,Within SLA,Account Support
+T0333,I want to cancel my subscription Thank you.,Account,Medium,Neutral,Phone,New,17.0,Within SLA,Account Support
+T0334,Please help me update my email address Please resolve this.,Account,Medium,Positive,Phone,New,17.0,Within SLA,Account Support
+T0335,I need assistance. I cannot access my account profile Thank you.,Account,Low,Negative,Phone,Returning,16.6,Within SLA,Account Support
+T0336,Please help me. Please help me update my email address Thank you.,Account,Medium,Positive,Social Media,New,4.8,Within SLA,Account Support
+T0337,This is urgent. I want to change my account details Thank you.,Account,Medium,Negative,Social Media,Returning,17.4,Within SLA,Account Support
+T0338,This is urgent. I want to change my account details This is frustrating.,Account,Medium,Negative,Social Media,Returning,9.0,Within SLA,Account Support
+T0339,Please help me update my email address This is frustrating.,Account,High,Negative,Chat,Premium,5.3,Within SLA,Account Support
+T0340,Please help me. I want to change my account details I need an update.,Account,High,Neutral,Phone,Returning,6.2,Within SLA,Account Support
+T0341,Please help me. I want to change my account details,Account,Low,Positive,Phone,New,15.9,Within SLA,Account Support
+T0342,Please help me. Please help me update my email address Please resolve this.,Account,Medium,Positive,Email,Returning,5.4,Within SLA,Account Support
+T0343,Please help me. I cannot access my account profile Thank you.,Account,Medium,Negative,Social Media,New,8.5,Within SLA,Account Support
+T0344,Can someone help? I want to cancel my subscription This is frustrating.,Account,Medium,Negative,Chat,Premium,14.1,Within SLA,Account Support
+T0345,I need assistance. I cannot access my account profile This is frustrating.,Account,High,Negative,Phone,Returning,2.9,Within SLA,Account Support
+T0346,Please help me. Please help me update my email address Please resolve this.,Account,Medium,Positive,Email,Returning,8.2,Within SLA,Account Support
+T0347,I need assistance. I want to cancel my subscription This is frustrating.,Account,Medium,Negative,Email,New,6.7,Within SLA,Account Support
+T0348,Please help me. I want to cancel my subscription This is frustrating.,Account,Medium,Negative,Phone,Returning,12.7,Within SLA,Account Support
+T0349,Can someone help? I want to cancel my subscription Thank you.,Account,High,Positive,Chat,Returning,5.2,Within SLA,Account Support
+T0350,I need assistance. I want to cancel my subscription This is frustrating.,Account,Low,Negative,Social Media,Premium,14.4,Within SLA,Account Support
+T0351,This is urgent. Please help me update my email address This is frustrating.,Account,Medium,Negative,Phone,New,15.0,Within SLA,Account Support
+T0352,I need assistance. I cannot access my account profile Thank you.,Account,Low,Negative,Email,Premium,12.0,Within SLA,Account Support
+T0353,I need assistance. How can I change my phone number? This is frustrating.,Account,Medium,Negative,Email,Returning,15.6,Within SLA,Account Support
+T0354,I need assistance. How can I change my phone number? I need an update.,Account,High,Neutral,Social Media,New,6.0,Within SLA,Account Support
+T0355,How can I change my phone number? This is frustrating.,Account,Medium,Negative,Social Media,Premium,11.5,Within SLA,Account Support
+T0356,This is urgent. I want to change my account details Thank you.,Account,Medium,Negative,Email,New,16.8,Within SLA,Account Support
+T0357,I need assistance. I want to cancel my subscription Thank you.,Account,High,Positive,Phone,Returning,7.8,Within SLA,Account Support
+T0358,Please help me. I want to change my account details,Account,Medium,Neutral,Social Media,Returning,10.2,Within SLA,Account Support
+T0359,I cannot access my account profile Please resolve this.,Account,Medium,Negative,Email,Returning,4.3,Within SLA,Account Support
+T0360,Please help me. How can I change my phone number?,Account,Low,Neutral,Phone,Returning,15.7,Within SLA,Account Support
+T0361,Please help me update my email address This is frustrating.,Account,Medium,Negative,Social Media,Returning,5.4,Within SLA,Account Support
+T0362,This is urgent. I want to change my account details,Account,Low,Negative,Phone,Premium,10.5,Within SLA,Account Support
+T0363,I need assistance. I want to change my account details Please resolve this.,Account,Medium,Neutral,Social Media,Returning,8.6,Within SLA,Account Support
+T0364,Can someone help? Please help me update my email address Please resolve this.,Account,High,Positive,Chat,Returning,3.8,Within SLA,Account Support
+T0365,Can someone help? I cannot access my account profile This is frustrating.,Account,High,Negative,Phone,Premium,2.5,Within SLA,Account Support
+T0366,I want to change my account details,Account,Medium,Neutral,Chat,Returning,9.1,Within SLA,Account Support
+T0367,This is urgent. I want to change my account details This is frustrating.,Account,Medium,Negative,Social Media,Premium,12.9,Within SLA,Account Support
+T0368,How can I change my phone number?,Account,Medium,Positive,Phone,Premium,12.6,Within SLA,Account Support
+T0369,Please help me. I cannot access my account profile Please resolve this.,Account,Medium,Negative,Email,New,7.3,Within SLA,Account Support
+T0370,I need assistance. I want to cancel my subscription Thank you.,Account,Medium,Neutral,Social Media,New,12.0,Within SLA,Account Support
+T0371,How can I change my phone number? Please resolve this.,Account,Medium,Positive,Chat,Returning,8.0,Within SLA,Account Support
+T0372,How can I change my phone number?,Account,Low,Neutral,Chat,Returning,18.7,Within SLA,Account Support
+T0373,I cannot access my account profile This is frustrating.,Account,Medium,Negative,Social Media,Returning,10.9,Within SLA,Account Support
+T0374,Please help me. Please help me update my email address Thank you.,Account,High,Neutral,Phone,New,3.0,Within SLA,Account Support
+T0375,This is urgent. I cannot access my account profile Please resolve this.,Account,Medium,Negative,Social Media,Premium,11.9,Within SLA,Account Support
+T0376,Please help me. I cannot access my account profile Thank you.,Account,High,Negative,Phone,Premium,6.4,Within SLA,Account Support
+T0377,Can someone help? I want to change my account details Thank you.,Account,High,Positive,Chat,Returning,1.7,Within SLA,Account Support
+T0378,Can someone help? I want to change my account details I need an update.,Account,Medium,Neutral,Email,New,10.1,Within SLA,Account Support
+T0379,Please help me update my email address I need an update.,Account,Low,Positive,Chat,New,11.7,Within SLA,Account Support
+T0380,Please help me. Please help me update my email address Thank you.,Account,Medium,Positive,Chat,Returning,12.4,Within SLA,Account Support
+T0381,This is urgent. I want to cancel my subscription Thank you.,Account,Medium,Negative,Email,New,16.0,Within SLA,Account Support
+T0382,Please help me. How can I change my phone number? I need an update.,Account,Low,Neutral,Chat,New,23.4,Within SLA,Account Support
+T0383,This is urgent. Please help me update my email address Please resolve this.,Account,Medium,Negative,Social Media,New,13.5,Within SLA,Account Support
+T0384,This is urgent. I cannot access my account profile This is frustrating.,Account,Medium,Negative,Email,Returning,5.1,Within SLA,Account Support
+T0385,This is urgent. I cannot access my account profile I need an update.,Account,Medium,Negative,Email,Premium,10.8,Within SLA,Account Support
+T0386,Can someone help? I want to change my account details I need an update.,Account,Low,Positive,Social Media,New,12.8,Within SLA,Account Support
+T0387,This is urgent. How can I change my phone number? I need an update.,Account,Low,Negative,Chat,Premium,15.4,Within SLA,Account Support
+T0388,This is urgent. How can I change my phone number?,Account,High,Negative,Social Media,New,5.4,Within SLA,Account Support
+T0389,I need assistance. I want to change my account details This is frustrating.,Account,Medium,Negative,Social Media,New,17.9,Within SLA,Account Support
+T0390,This is urgent. Please help me update my email address Please resolve this.,Account,Low,Negative,Email,Premium,27.3,Within SLA,Account Support
+T0391,This is urgent. I want to cancel my subscription,Account,Medium,Negative,Chat,New,16.7,Within SLA,Account Support
+T0392,This is urgent. How can I change my phone number? Please resolve this.,Account,Medium,Negative,Email,New,5.3,Within SLA,Account Support
+T0393,Can someone help? Please help me update my email address,Account,High,Neutral,Social Media,New,4.6,Within SLA,Account Support
+T0394,This is urgent. I want to change my account details,Account,Low,Negative,Chat,Returning,17.3,Within SLA,Account Support
+T0395,I need assistance. I want to change my account details This is frustrating.,Account,High,Negative,Email,Returning,6.6,Within SLA,Account Support
+T0396,This is urgent. I want to cancel my subscription Please resolve this.,Account,Medium,Negative,Chat,Premium,15.4,Within SLA,Account Support
+T0397,Please help me. Please help me update my email address Thank you.,Account,Medium,Neutral,Chat,Premium,10.2,Within SLA,Account Support
+T0398,Can someone help? Please help me update my email address Thank you.,Account,Medium,Neutral,Email,New,5.2,Within SLA,Account Support
+T0399,I want to change my account details This is frustrating.,Account,Medium,Negative,Chat,New,10.0,Within SLA,Account Support
+T0400,Please help me. I want to cancel my subscription Please resolve this.,Account,Medium,Positive,Email,Premium,14.9,Within SLA,Account Support
+T0401,I need assistance. I received the wrong product Thank you.,Product,Medium,Negative,Social Media,Returning,6.6,Within SLA,Product Support
+T0402,I need assistance. The product arrived damaged This is frustrating.,Product,High,Negative,Email,Premium,2.7,Within SLA,Product Support
+T0403,This is urgent. The product arrived damaged I need an update.,Product,High,Negative,Social Media,Returning,7.0,Within SLA,Product Support
+T0404,I need assistance. I want to return the product This is frustrating.,Product,Low,Negative,Email,Premium,24.9,Within SLA,Product Support
+T0405,Please help me. The product arrived damaged I need an update.,Product,High,Negative,Social Media,Premium,7.5,Within SLA,Product Support
+T0406,I received the wrong product This is frustrating.,Product,High,Negative,Chat,Returning,3.8,Within SLA,Product Support
+T0407,This is urgent. The product arrived damaged,Product,High,Negative,Chat,Premium,2.4,Within SLA,Product Support
+T0408,Can someone help? I received the wrong product Thank you.,Product,Medium,Negative,Email,Returning,15.7,Within SLA,Product Support
+T0409,I need assistance. The product quality is poor,Product,High,Positive,Email,Returning,1.8,Within SLA,Product Support
+T0410,Please help me. The item I received is defective,Product,Medium,Negative,Chat,Returning,13.8,Within SLA,Product Support
+T0411,I received the wrong product Thank you.,Product,Medium,Negative,Chat,Returning,14.1,Within SLA,Product Support
+T0412,This is urgent. The item I received is defective,Product,Medium,Negative,Social Media,Returning,4.4,Within SLA,Product Support
+T0413,Please help me. I want to return the product I need an update.,Product,Medium,Neutral,Phone,New,10.9,Within SLA,Product Support
+T0414,The product quality is poor Please resolve this.,Product,High,Positive,Email,New,6.4,Within SLA,Product Support
+T0415,Please help me. I want to return the product,Product,Medium,Neutral,Social Media,Returning,7.4,Within SLA,Product Support
+T0416,I need assistance. The product quality is poor Please resolve this.,Product,Low,Neutral,Social Media,New,20.2,Within SLA,Product Support
+T0417,I need assistance. I received the wrong product This is frustrating.,Product,Low,Negative,Email,Premium,15.0,Within SLA,Product Support
+T0418,Please help me. I received the wrong product Thank you.,Product,Medium,Negative,Chat,Premium,4.7,Within SLA,Product Support
+T0419,Can someone help? The product arrived damaged,Product,Medium,Negative,Phone,Returning,16.1,Within SLA,Product Support
+T0420,The product arrived damaged This is frustrating.,Product,High,Negative,Phone,Premium,2.4,Within SLA,Product Support
+T0421,I need assistance. I want to return the product This is frustrating.,Product,High,Negative,Chat,Premium,7.8,Within SLA,Product Support
+T0422,I need assistance. I want to return the product Please resolve this.,Product,High,Positive,Phone,Premium,1.2,Within SLA,Product Support
+T0423,This is urgent. The product arrived damaged,Product,Medium,Negative,Phone,New,9.3,Within SLA,Product Support
+T0424,The item I received is defective Please resolve this.,Product,High,Negative,Chat,Premium,7.7,Within SLA,Product Support
+T0425,Please help me. I received the wrong product,Product,Low,Negative,Social Media,Premium,27.7,Within SLA,Product Support
+T0426,Can someone help? I received the wrong product,Product,Medium,Negative,Social Media,New,11.1,Within SLA,Product Support
+T0427,I want to return the product,Product,High,Neutral,Phone,Returning,2.7,Within SLA,Product Support
+T0428,This is urgent. The product quality is poor I need an update.,Product,High,Negative,Chat,New,2.6,Within SLA,Product Support
+T0429,Please help me. I want to return the product Please resolve this.,Product,High,Positive,Social Media,New,4.3,Within SLA,Product Support
+T0430,This is urgent. I want to return the product Please resolve this.,Product,High,Negative,Email,New,4.2,Within SLA,Product Support
+T0431,This is urgent. The item I received is defective Thank you.,Product,High,Negative,Phone,New,6.9,Within SLA,Product Support
+T0432,I need assistance. The product arrived damaged I need an update.,Product,High,Negative,Phone,Returning,1.3,Within SLA,Product Support
+T0433,Please help me. The item I received is defective This is frustrating.,Product,Medium,Negative,Chat,New,11.8,Within SLA,Product Support
+T0434,Please help me. The product quality is poor Please resolve this.,Product,High,Neutral,Chat,New,6.8,Within SLA,Product Support
+T0435,Can someone help? The item I received is defective I need an update.,Product,Medium,Negative,Email,Premium,17.1,Within SLA,Product Support
+T0436,This is urgent. I want to return the product,Product,High,Negative,Social Media,New,1.5,Within SLA,Product Support
+T0437,This is urgent. The product arrived damaged,Product,High,Negative,Chat,Premium,4.2,Within SLA,Product Support
+T0438,Can someone help? The product quality is poor This is frustrating.,Product,High,Negative,Chat,Returning,5.8,Within SLA,Product Support
+T0439,I need assistance. The item I received is defective I need an update.,Product,High,Negative,Email,Premium,7.2,Within SLA,Product Support
+T0440,I want to return the product Please resolve this.,Product,Medium,Positive,Social Media,New,9.8,Within SLA,Product Support
+T0441,This is urgent. The product arrived damaged This is frustrating.,Product,High,Negative,Chat,Premium,2.4,Within SLA,Product Support
+T0442,Please help me. I want to return the product This is frustrating.,Product,Medium,Negative,Social Media,Returning,9.0,Within SLA,Product Support
+T0443,I want to return the product I need an update.,Product,High,Neutral,Chat,New,1.2,Within SLA,Product Support
+T0444,Please help me. I received the wrong product This is frustrating.,Product,High,Negative,Chat,New,6.4,Within SLA,Product Support
+T0445,I need assistance. The product arrived damaged Please resolve this.,Product,High,Negative,Email,New,6.7,Within SLA,Product Support
+T0446,Can someone help? I want to return the product I need an update.,Product,Low,Neutral,Phone,Premium,11.9,Within SLA,Product Support
+T0447,I received the wrong product,Product,Medium,Negative,Chat,Premium,8.9,Within SLA,Product Support
+T0448,Can someone help? The item I received is defective Thank you.,Product,High,Negative,Email,New,4.4,Within SLA,Product Support
+T0449,The item I received is defective Please resolve this.,Product,High,Negative,Phone,Premium,4.3,Within SLA,Product Support
+T0450,I need assistance. The item I received is defective I need an update.,Product,Medium,Negative,Phone,New,16.9,Within SLA,Product Support
+T0451,I need assistance. The product arrived damaged Thank you.,Product,Medium,Negative,Email,Premium,6.0,Within SLA,Product Support
+T0452,Please help me. I received the wrong product I need an update.,Product,Medium,Negative,Email,Returning,13.3,Within SLA,Product Support
+T0453,This is urgent. I received the wrong product Please resolve this.,Product,Low,Negative,Social Media,Premium,24.1,Within SLA,Product Support
+T0454,This is urgent. The product quality is poor Please resolve this.,Product,Medium,Negative,Phone,New,11.9,Within SLA,Product Support
+T0455,I need assistance. I want to return the product This is frustrating.,Product,High,Negative,Chat,New,5.8,Within SLA,Product Support
+T0456,The product arrived damaged This is frustrating.,Product,Medium,Negative,Email,New,14.8,Within SLA,Product Support
+T0457,This is urgent. I want to return the product Thank you.,Product,High,Negative,Social Media,New,5.0,Within SLA,Product Support
+T0458,Please help me. I received the wrong product Please resolve this.,Product,High,Negative,Email,Premium,3.2,Within SLA,Product Support
+T0459,Can someone help? I received the wrong product,Product,High,Negative,Email,Returning,2.7,Within SLA,Product Support
+T0460,Please help me. I received the wrong product,Product,High,Negative,Social Media,New,4.1,Within SLA,Product Support
+T0461,Can someone help? The product quality is poor This is frustrating.,Product,High,Negative,Social Media,Premium,3.6,Within SLA,Product Support
+T0462,I need assistance. The item I received is defective This is frustrating.,Product,High,Negative,Phone,New,6.9,Within SLA,Product Support
+T0463,This is urgent. I received the wrong product,Product,High,Negative,Social Media,New,2.2,Within SLA,Product Support
+T0464,The product arrived damaged,Product,High,Negative,Social Media,Premium,7.9,Within SLA,Product Support
+T0465,Can someone help? The product arrived damaged Please resolve this.,Product,Medium,Negative,Email,New,10.1,Within SLA,Product Support
+T0466,I need assistance. I received the wrong product Please resolve this.,Product,High,Negative,Phone,Premium,4.9,Within SLA,Product Support
+T0467,This is urgent. I received the wrong product Please resolve this.,Product,High,Negative,Social Media,New,3.8,Within SLA,Product Support
+T0468,This is urgent. The product arrived damaged,Product,High,Negative,Social Media,New,3.1,Within SLA,Product Support
+T0469,Please help me. The product arrived damaged Please resolve this.,Product,High,Negative,Email,Returning,3.0,Within SLA,Product Support
+T0470,This is urgent. The product arrived damaged This is frustrating.,Product,High,Negative,Phone,New,7.3,Within SLA,Product Support
+T0471,Can someone help? I want to return the product Please resolve this.,Product,High,Positive,Social Media,New,3.6,Within SLA,Product Support
+T0472,Can someone help? I received the wrong product This is frustrating.,Product,High,Negative,Email,New,6.9,Within SLA,Product Support
+T0473,Please help me. The product arrived damaged I need an update.,Product,Medium,Negative,Chat,Premium,9.8,Within SLA,Product Support
+T0474,Can someone help? The product arrived damaged Thank you.,Product,High,Negative,Social Media,Premium,4.7,Within SLA,Product Support
+T0475,Can someone help? The item I received is defective I need an update.,Product,High,Negative,Email,Premium,7.3,Within SLA,Product Support
+T0476,I want to return the product Thank you.,Product,Medium,Neutral,Social Media,New,5.7,Within SLA,Product Support
+T0477,I need assistance. The item I received is defective Please resolve this.,Product,High,Negative,Social Media,New,4.0,Within SLA,Product Support
+T0478,The item I received is defective I need an update.,Product,High,Negative,Email,New,6.1,Within SLA,Product Support
+T0479,The product quality is poor This is frustrating.,Product,Medium,Negative,Social Media,New,16.0,Within SLA,Product Support
+T0480,I want to return the product Thank you.,Product,Medium,Neutral,Chat,Premium,9.8,Within SLA,Product Support
+T0481,I want to return the product,Product,Low,Neutral,Phone,Returning,25.3,Within SLA,Product Support
+T0482,Can someone help? I received the wrong product This is frustrating.,Product,Medium,Negative,Chat,Returning,10.6,Within SLA,Product Support
+T0483,I need assistance. The product quality is poor Thank you.,Product,Medium,Positive,Phone,Premium,4.5,Within SLA,Product Support
+T0484,Please help me. The item I received is defective This is frustrating.,Product,Low,Negative,Email,Returning,27.7,Within SLA,Product Support
+T0485,This is urgent. I received the wrong product I need an update.,Product,Medium,Negative,Email,New,16.0,Within SLA,Product Support
+T0486,This is urgent. The item I received is defective This is frustrating.,Product,Medium,Negative,Social Media,Premium,8.5,Within SLA,Product Support
+T0487,I need assistance. The product arrived damaged This is frustrating.,Product,High,Negative,Social Media,Premium,6.8,Within SLA,Product Support
+T0488,Please help me. I received the wrong product Thank you.,Product,Medium,Negative,Social Media,New,4.9,Within SLA,Product Support
+T0489,I want to return the product,Product,High,Neutral,Chat,New,6.9,Within SLA,Product Support
+T0490,Please help me. The product quality is poor I need an update.,Product,Medium,Positive,Social Media,Premium,9.2,Within SLA,Product Support
+T0491,Please help me. The product quality is poor,Product,High,Positive,Chat,Returning,5.2,Within SLA,Product Support
+T0492,I want to return the product I need an update.,Product,High,Positive,Email,Returning,6.2,Within SLA,Product Support
+T0493,Can someone help? The product arrived damaged,Product,High,Negative,Chat,New,5.0,Within SLA,Product Support
+T0494,I need assistance. The item I received is defective I need an update.,Product,Medium,Negative,Email,Returning,11.2,Within SLA,Product Support
+T0495,I need assistance. The item I received is defective Thank you.,Product,Medium,Negative,Phone,Premium,7.1,Within SLA,Product Support
+T0496,Can someone help? I received the wrong product This is frustrating.,Product,Medium,Negative,Chat,Returning,10.4,Within SLA,Product Support
+T0497,I received the wrong product Thank you.,Product,High,Negative,Phone,Premium,1.7,Within SLA,Product Support
+T0498,I want to return the product I need an update.,Product,High,Neutral,Phone,Returning,4.4,Within SLA,Product Support
+T0499,This is urgent. I received the wrong product I need an update.,Product,Medium,Negative,Phone,New,17.3,Within SLA,Product Support
+T0500,The item I received is defective Please resolve this.,Product,Medium,Negative,Social Media,Premium,15.3,Within SLA,Product Support
